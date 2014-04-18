@@ -1,7 +1,8 @@
 Project-2
 =========
 
-Why:
+Problems:
+  I have tried multiple times to get the font icons to be bigger and nothing has worked. I did everything that the video said to do as well as what you showed me in class. I dont know what i am doing wrong but I just cant seem to get it to work.
 
 
 How:
